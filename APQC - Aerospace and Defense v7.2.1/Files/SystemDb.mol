@@ -1,0 +1,108 @@
+.Option REAFFECT_MEGA_PROPERTY 1
+
+-  "~O20000000Y10[MetaAttribute]" "APQC Process ID"
+.Create ."~O20000000Y10[MetaAttribute]" "APQC Process ID" -
+        .CHK "0zSVN(7fTfuKC30000mCpCpCqHtJC)KQILgD" -
+        ."~210000000900[Name]"                               "APQC Process ID" -
+        ."~510000000L00[Creation Date]"                      "2019/10/14 14:00:55" -
+        ."~610000000P00[Modification Date]"                  "2019/10/14 14:00:55" -
+        ."~b10000000L20[Modifier]"                           "qHtJC)KQILgD" -
+        ."~(10000000v30[Creator]"                            "qHtJC)KQILgD" -
+        ."~520000000L40[Create Version]"                     "30837" -
+        ."~620000000P40[Update Version]"                     "30837" -
+        ."~a20000000H60[Language Update Date]"               "2019/10/14 14:00:55" -
+        ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100"
+
+-  "~O20000000Y10[MetaAttribute]" "APQC Process ID"
+.Update ."~O20000000Y10[MetaAttribute]" "APQC Process ID" -
+        .CHK "0zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~610000000P00[Modification Date]"                  "2019/10/14 14:00:57" -
+        ."~b10000000L20[Modifier]"                           "qHtJC)KQILgD" -
+        ."~v10000000b30[_AtIndex]"                           "0"
+
+-  "~O20000000Y10[MetaAttribute]" "APQC Process ID"
+.Update ."~O20000000Y10[MetaAttribute]" "APQC Process ID" -
+        .CHK "0zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~610000000P00[Modification Date]"                  "2019/10/14 14:00:57" -
+        ."~b10000000L20[Modifier]"                           "qHtJC)KQILgD" -
+        ."~c4Z7zM2OxaL0[LanguageUpdateDate (English)]"       "2019/10/14 14:00:57" -
+        ."~FpDyR5uj6WZC[Name (English)]"                     "APQC Process ID"
+
+-  "~O20000000Y10[MetaAttribute]" "APQC Process ID"
+.Update ."~O20000000Y10[MetaAttribute]" "APQC Process ID" -
+        .CHK "0zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~610000000P00[Modification Date]"                  "2019/10/14 14:00:57" -
+        ."~R10000000j10[MetaAttribute Length]"               "64" -
+        ."~b10000000L20[Modifier]"                           "qHtJC)KQILgD"
+
+-  "MetaClass" "BPMN Process"
+-  "MetaAttribute" "APQC Process ID"
+.Connect ."~P20000000c10[MetaClass]" "BPMN Process" ."~k0000000C820[MetaAttribute]" "APQC Process ID" -
+        .CHK "w)UB063C99h00zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~410000000H00[Order]"                              "9999" -
+        ."~710000000T00[Link creation date]"                 "2019/10/14 14:00:57" -
+        ."~810000000X00[Link modification date]"             "2019/10/14 14:00:57" -
+        ."~720000000T40[Link Creator]"                       "qHtJC)KQILgD" -
+        ."~920000000b40[Link Modifier]"                      "qHtJC)KQILgD"
+
+-  "MetaClass" "BPMN Process"
+-  "MetaAttribute" "APQC Process ID"
+.Change ."~P20000000c10[MetaClass]" "BPMN Process" ."~k0000000C820[MetaAttribute]" "APQC Process ID" -
+        .CHK "w)UB063C99h00zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~810000000X00[Link modification date]"             "2019/10/14 14:00:58" -
+        ."~920000000b40[Link Modifier]"                      "qHtJC)KQILgD" -
+        ."~eXdjDTxNCj80[Current Name Server Setup Version]"  "0"
+
+-  "MetaClass" "BPMN Process"
+-  "MetaAttribute" "APQC Process ID"
+.Change ."~P20000000c10[MetaClass]" "BPMN Process" ."~k0000000C820[MetaAttribute]" "APQC Process ID" -
+        .CHK "w)UB063C99h00zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~410000000H00[Order]"                              "9999" -
+        ."~810000000X00[Link modification date]"             "2019/10/14 14:00:58" -
+        ."~920000000b40[Link Modifier]"                      "qHtJC)KQILgD"
+
+-  "MetaClass" "BPMN Activity"
+-  "MetaAttribute" "APQC Process ID"
+.Connect ."~P20000000c10[MetaClass]" "BPMN Activity" ."~k0000000C820[MetaAttribute]" "APQC Process ID" -
+        .CHK "rJQqq7jB9H400zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~410000000H00[Order]"                              "9999" -
+        ."~710000000T00[Link creation date]"                 "2019/10/14 14:01:10" -
+        ."~810000000X00[Link modification date]"             "2019/10/14 14:01:10" -
+        ."~720000000T40[Link Creator]"                       "qHtJC)KQILgD" -
+        ."~920000000b40[Link Modifier]"                      "qHtJC)KQILgD"
+
+-  "MetaClass" "BPMN Activity"
+-  "MetaAttribute" "APQC Process ID"
+.Change ."~P20000000c10[MetaClass]" "BPMN Activity" ."~k0000000C820[MetaAttribute]" "APQC Process ID" -
+        .CHK "rJQqq7jB9H400zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~810000000X00[Link modification date]"             "2019/10/14 14:01:10" -
+        ."~920000000b40[Link Modifier]"                      "qHtJC)KQILgD" -
+        ."~eXdjDTxNCj80[Current Name Server Setup Version]"  "0"
+
+-  "MetaClass" "Indicator"
+-  "MetaAttribute" "APQC Process ID"
+.Connect ."~P20000000c10[MetaClass]" "Indicator" ."~k0000000C820[MetaAttribute]" "APQC Process ID" -
+        .CHK "rQ65UIXKpG000zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~410000000H00[Order]"                              "9999" -
+        ."~710000000T00[Link creation date]"                 "2019/10/21 08:45:02" -
+        ."~810000000X00[Link modification date]"             "2019/10/21 08:45:02" -
+        ."~720000000T40[Link Creator]"                       "qHtJC)KQILgD" -
+        ."~920000000b40[Link Modifier]"                      "qHtJC)KQILgD"
+
+-  "MetaClass" "Indicator"
+-  "MetaAttribute" "APQC Process ID"
+.Change ."~P20000000c10[MetaClass]" "Indicator" ."~k0000000C820[MetaAttribute]" "APQC Process ID" -
+        .CHK "rQ65UIXKpG000zSVN(7fTfuKqHtJC)KQILgD" -
+        ."~810000000X00[Link modification date]"             "2019/10/21 08:45:04" -
+        ."~920000000b40[Link Modifier]"                      "qHtJC)KQILgD" -
+        ."~eXdjDTxNCj80[Current Name Server Setup Version]"  "0"
+
+-  "MetaAttribute" "APQC Process ID"
+.Update ."~O20000000Y10[MetaAttribute]" "APQC Process ID" -
+        .CHK "0zSVN(7fTfuKuDA5kSXExS00" -
+        ."~610000000P00[Modification Date]"                  "2019/12/12 13:43:26" -
+        ."~b10000000L20[Modifier]"                           "uDA5kSXExS00" -
+        ."~K4Z7qM2Ox0L0[LanguageUpdateDate (Français)]"      "2019/12/12 13:43:26" -
+        ."~c4Z7zM2OxaL0[LanguageUpdateDate (English)]"       "2019/12/12 13:43:13" -
+        ."~ZoDyR5uY6WZC[Name (Français)]"                    "APQC ID" -
+        ."~FpDyR5uj6WZC[Name (English)]"                     "APQC ID"
